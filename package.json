@@ -4,7 +4,7 @@
   "displayName": "IES importer for BIRP",
   "description": "Unity's IES importer, originally made for HDRP/CoreRP, ported to the built-in rendering pipeline.",
   "unity": "2019.4",
-  "unityRelease": "11",
+  "unityRelease": "11f1",
   "dependencies": {
  },
  "keywords": [
